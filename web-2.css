@@ -30,7 +30,6 @@ i {
     margin-top: 30px;
     font-size: 6rem;
     color: rgb(187, 179, 187);
-    
 }
 
 .button {
@@ -38,6 +37,7 @@ i {
     margin: auto;
     text-align: center;
     margin-top: 30px;
+    padding-bottom: 50px;
 }
 
 a {
